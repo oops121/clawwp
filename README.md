@@ -13,21 +13,23 @@ ClawWP puts an Ai agent in your WordPress admin sidebar. Instead of clicking thr
 
 ## Looking for an OpenClaw Alternative?
 
-ClawWP was built to solve the problems WordPress site owners face with existing Ai plugins:
+OpenClaw is a powerful open-source Ai assistant — but it requires self-hosting on a VPS or Docker, managing your own infrastructure, and connecting to WordPress through external plugins or APIs. For WordPress site owners who just want an Ai agent that works, that's a lot of overhead.
+
+ClawWP is purpose-built for WordPress. Install, activate, add your API key, and start chatting — 60 seconds, no servers to manage.
 
 | | ClawWP | OpenClaw |
 |---|---|---|
-| **Setup** | Install, add API key, chat | Complex configuration |
-| **Cost tracking** | Built-in with budget alerts | Users report $300-700/mo surprise bills |
-| **MCP support** | Full client (HTTP + stdio) | No |
-| **Telegram** | Free | No |
-| **Slack & Discord** | Pro | No |
+| **Installation** | WordPress plugin — upload and activate | Self-hosted (Docker/VPS) or managed hosting |
+| **WordPress integration** | Native — uses WP roles, hooks, capabilities | Connects via REST API or MCP plugin |
+| **Cost tracking** | Built-in with budget alerts at 80% and 100% | No built-in cost tracking |
+| **MCP support** | Full client (HTTP + stdio) | Yes (native) |
+| **Telegram, Slack, Discord** | Yes (Telegram free, Slack/Discord Pro) | Yes |
 | **Prediction markets** | Built-in (GuessMarket) | No |
-| **Blockchain wallets** | Built-in (AgentWallet) | No |
-| **Security audit** | 49 files audited, 0 critical | Unknown |
-| **Price** | Free / $9.99 Pro | $29/mo+ |
+| **Blockchain wallets** | Built-in (AgentWallet, 9 EVM chains) | No |
+| **Infrastructure needed** | None — runs inside WordPress | VPS, Docker, or managed hosting ($9-39/mo) |
+| **Price** | Free / $9.99 Pro | Free (open source) + hosting + API costs |
 
-ClawWP gives you more features, better cost visibility, and a lower price. The free tier alone includes everything most site owners need.
+If you're already running WordPress and want an Ai agent without spinning up extra infrastructure, ClawWP gets you there faster.
 
 ---
 

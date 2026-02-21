@@ -146,7 +146,7 @@ Add your own MCP servers in ClawWP → Settings to give your agent any capabilit
 | AgentWallet blockchain | — | ✓ |
 | MCP server support | ✓ | ✓ |
 | OpenAI models | — | ✓ |
-| Cognitive Memory | Basic | Full |
+| CogmemAi | Basic | Full |
 | Cost tracking | ✓ | ✓ |
 | Included tokens | BYOK | 500K/mo |
 

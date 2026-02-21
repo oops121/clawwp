@@ -25,7 +25,7 @@ ClawWP is purpose-built for WordPress. Install, activate, add your API key, and 
 | **MCP support** | Full client (HTTP + stdio) | Yes (native) |
 | **Telegram, Slack, Discord** | Yes (Telegram free, Slack/Discord Pro) | Yes |
 | **Prediction markets** | Built-in (GuessMarket) | No |
-| **Blockchain wallets** | Built-in (AgentWallet, 9 EVM chains) | No |
+| **Blockchain wallets** | Built-in (AgentWallet, all EVM chains) | No |
 | **Infrastructure needed** | None — runs inside WordPress | VPS, Docker, or managed hosting ($9-39/mo) |
 | **Price** | Free / $9.99 Pro | Free (open source) + hosting + API costs |
 
@@ -53,7 +53,7 @@ If you're already running WordPress and want an Ai agent without spinning up ext
 ### Integrations
 - **MCP servers** — Connect any Model Context Protocol server to extend your agent with custom tools
 - **GuessMarket** — Trade prediction markets through natural conversation (Free)
-- **AgentWallet** — Sign and broadcast blockchain transactions on 9 EVM chains (Pro)
+- **AgentWallet** — Sign and broadcast blockchain transactions on all EVM chains (Pro)
 - **WooCommerce** — Manage orders, products, customers, and inventory through chat (Pro)
 
 ---

